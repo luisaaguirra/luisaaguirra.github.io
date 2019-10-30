@@ -1,0 +1,20 @@
+.banner_part{
+    height: inherit;
+}
+
+.new_section{
+    padding: 100px 0px 0px;
+}
+
+.main_topic{
+    font-weight: bold;
+}
+
+.sub_list{
+    list-style-type: circle;
+}
+
+.people li{
+    display: block;
+    list-style-type: circle;
+}
